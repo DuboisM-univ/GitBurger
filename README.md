@@ -12,6 +12,6 @@ Notre recette
 * Tomate
 * Fromage
 * Moutarde
-* Grimace
-* shakeMayodenoche
+* Grimace shake
+* Mayodenoche
 * Bacon
