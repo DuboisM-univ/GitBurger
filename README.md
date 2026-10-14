@@ -6,12 +6,12 @@ Hi, welcome to Chilli's!
 
 Notre recette
 
-1.Pain burger
-2.Steak
-3.Salade
-4.Tomate
-5.Fromage
-*.Moutarde
-*.Grimace shake
-8.Mayodenoche
-9.Bacon
+* Pain burger
+* Steak
+* Salade
+* Tomate
+* Fromage
+* Moutarde
+* Grimace
+* shakeMayodenoche
+* Bacon
